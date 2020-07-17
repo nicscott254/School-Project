@@ -1,2 +1,2 @@
 # School-Project
-Medical Application
+Java Based Medical Application
